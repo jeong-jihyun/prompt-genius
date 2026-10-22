@@ -62,7 +62,7 @@ prompt-genius/
 | 항목 | 결과 |
 | --- | --- |
 | JS 5개 파일 문법, `manifest.json` 형식 | 통과 |
-| 화면이 보내는 메시지 17종 ↔ `background.js` 처리부 | 모두 대응 |
+| 화면이 보내는 메시지 16종 ↔ `background.js` 처리부 | 모두 대응 |
 | `GENERATE_TEMPLATE` (Ollama 응답을 가짜로 대체) | 정상 응답, 패턴 6종 로드 확인 |
 | 크롬에 실제 설치해 화면·삽입 동작 | **미확인** (이 환경에는 확장 프로그램을 올릴 크롬 UI가 없음) |
 | 실제 Claude·Groq 등 외부 API 호출 | **미확인** (키 없음) |
